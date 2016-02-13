@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Music of David Tosti]]></title>
         <description><![CDATA[The Music of David Tosti]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tosti/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 07:07:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 07:07:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tosti/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4242cd8c-e0a2-404d-9c86-3acfb6402241.jpg">]]></description>
+            <link>https://thegrid.ai/tosti/40d25924-bd20-49f2-96aa-80b64fd0a062/index.html</link>
+            <guid isPermaLink="false">40d25924-bd20-49f2-96aa-80b64fd0a062</guid>
+            <pubDate>Sat, 13 Feb 2016 07:07:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaf8235d-e782-4de9-914d-e3bc39b57428.png">]]></description>
-            <link>undefined9609a907-2941-44c0-949a-c2e1c1ab6e30/index.html</link>
+            <link>https://thegrid.ai/tosti/9609a907-2941-44c0-949a-c2e1c1ab6e30/index.html</link>
             <guid isPermaLink="false">9609a907-2941-44c0-949a-c2e1c1ab6e30</guid>
             <pubDate>Sat, 13 Feb 2016 07:07:07 GMT</pubDate>
         </item>
