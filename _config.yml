@@ -1,6 +1,6 @@
 name: 'TOSTI '
 favicon: null
-layout_spectrum: 0.00211
+layout_spectrum: 0.00351
 typography_spectrum: 0.94527
 title: Tosti
 collections:
@@ -35,7 +35,7 @@ color:
     - '#e4c4b7'
     - '#90644b'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 1
   saturation: 0.5
   rhythmicContrast: 0
 purpose: []
