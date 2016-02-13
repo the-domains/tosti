@@ -1,29 +1,41 @@
-name: 'TOSTI '
-favicon: null
-layout_spectrum: 0.12413088278844953
-typography_spectrum: 0.94527
 title: The Music of David Tosti
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.1241308827884495
+favicon: null
+name: 'TOSTI '
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 1
+  lightness: 0.9539101
+  saturation: 0.04680851
+  rhythmicContrast: 0.5
   brandColors:
     - '#000501'
     - '#005e7a'
     - '#478cab'
     - '#e4c4b7'
     - '#90644b'
-  brandStrength: 1
-  lightness: 0.953910042764619
-  saturation: 0.7033716251607984
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.94527
