@@ -2,7 +2,7 @@ name: 'TOSTI '
 favicon: null
 layout_spectrum: 0.00211
 typography_spectrum: 0.94527
-title: The Music of David Tosti
+title: Tosti
 collections:
   - index:
       navigable: true
