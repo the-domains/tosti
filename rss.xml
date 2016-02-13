@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Music of David Tosti]]></title>
-        <description><![CDATA[The Music of David Tosti]]></description>
+        <title><![CDATA[Tosti]]></title>
+        <description><![CDATA[Tosti]]></description>
         <link>https://thegrid.ai/tosti/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 07:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 07:39:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tosti/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,12 @@
             <link>https://thegrid.ai/tosti/40d25924-bd20-49f2-96aa-80b64fd0a062/index.html</link>
             <guid isPermaLink="false">40d25924-bd20-49f2-96aa-80b64fd0a062</guid>
             <pubDate>Sat, 13 Feb 2016 07:07:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/tosti/28db1b8b-4e84-495e-b519-1ce5d4c3b2e2/index.html</link>
+            <guid isPermaLink="false">28db1b8b-4e84-495e-b519-1ce5d4c3b2e2</guid>
+            <pubDate>Sat, 13 Feb 2016 07:38:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
