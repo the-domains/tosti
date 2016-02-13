@@ -34,7 +34,7 @@ color:
     - '#478cab'
     - '#e4c4b7'
     - '#90644b'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
