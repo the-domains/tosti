@@ -1,41 +1,41 @@
 title: Tosti
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.00085
-favicon: null
-name: 'TOSTI '
 purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#010602'
+    - '#016D94'
+    - '#003244'
+    - '#60A0BC'
+    - '#FEE1D4'
+  rhythmicContrast: 0
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+cta:
+  version: null
+  bucket: null
+  domain: null
+name: 'TOSTI '
 opengraph:
   image: null
   type: null
   appId: null
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
-color:
-  brandStrength: 1
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
-  brandColors:
-    - '#000501'
-    - '#005e7a'
-    - '#478cab'
-    - '#e4c4b7'
-    - '#90644b'
 typography_spectrum: 0.94527
+layout_spectrum: 0.00085
