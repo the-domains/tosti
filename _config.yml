@@ -1,5 +1,30 @@
-title: Tosti
-purpose: []
+typography_spectrum: 0.94527
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#010602'
+    - '#016D94'
+    - '#003244'
+    - '#60A0BC'
+    - '#FEE1D4'
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.00085
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: 'TOSTI '
+cta:
+  version: null
+  bucket: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
-  brandColors:
-    - '#010602'
-    - '#016D94'
-    - '#003244'
-    - '#60A0BC'
-    - '#FEE1D4'
-  rhythmicContrast: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-cta:
-  version: null
-  bucket: null
-  domain: null
-name: 'TOSTI '
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.94527
-layout_spectrum: 0.00085
+title: musician again
+purpose: []
