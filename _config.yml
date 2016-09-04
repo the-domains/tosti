@@ -24,6 +24,10 @@ cta:
   version: null
   bucket: null
   domain: null
+navigation:
+  - name: photography
+    url: 'http://tostistudios.com'
+    type: external
 favicon: null
 collections:
   - index:
